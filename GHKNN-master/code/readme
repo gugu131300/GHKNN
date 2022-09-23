@@ -1,0 +1,5 @@
+The above code is a series of improvements to KNN.
+1）Basic_classfier folder refers to the corresponding basic classifier code in the paper.
+2）Ensemable_classifier folder refers to the code of the corresponding ensemble classifier in the paper.
+3）Single_classifier refers to the code of the corresponding Single classifier in the paper.
+All the above codes are provided by the Biological information Research Group, School of Computer science, Department of Intelligence and Computing, Tianjin University. For more help, please contact YiJieDing：wuxi_dyj@163.com.
